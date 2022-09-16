@@ -6,6 +6,6 @@
 </script>
 
 <Hero />
-<WhatWeDo />
 <Blog />
+<WhatWeDo />
 <Team />
