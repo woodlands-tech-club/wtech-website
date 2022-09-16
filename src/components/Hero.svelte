@@ -23,5 +23,5 @@
 			</a>
 		</div>
 	</div>
-	<img src="students.jpg" alt="group photo" class="md:w-[50%] md:h-auto drop-shadow" />
+	<img src="students.jpg" alt="group photo" class="md:w-[50%] md:h-auto shadow-md rounded-md" />
 </div>

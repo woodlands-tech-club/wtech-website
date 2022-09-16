@@ -7,7 +7,7 @@
 
 <a
 	href={article_link}
-	class="min-h-[200px] text-white flex flex-col bg-gradient-to-b {gradient} rounded-md"
+	class="min-h-[200px] text-white flex flex-col bg-gradient-to-b {gradient} rounded-md shadow-lg"
 >
 	<div class="mt-auto p-4">
 		<h3 class="text-lg font-semibold leading-tight mb-2">{title}</h3>
