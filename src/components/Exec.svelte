@@ -7,5 +7,5 @@
 <div class="text-center m-auto">
 	<img src={exec_img} alt={exec_name} class="w-32 h-32" />
 	<h3 class="text-lg font-medium">{exec_name}</h3>
-	<h4>— {exec_role}</h4>
+	<h4 class="text-blue-400">— {exec_role}</h4>
 </div>

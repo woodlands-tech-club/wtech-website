@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex items-center gap-3">
-	<h2 class="text-2xl font-semibold">✒️ Blog</h2>
+	<h2 class="text-3xl font-semibold">✒️ Blog</h2>
 	<h4 class="underline"><a href="/blog">View all</a></h4>
 </div>
 <hr />

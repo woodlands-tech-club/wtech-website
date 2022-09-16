@@ -1,10 +1,10 @@
 <div class="flex flex-col md:flex-row items-center gap-5 my-10">
 	<div class="md:w-[50%]">
-		<p class="font-medium mb-2">
+		<p class="font-semibold mb-2 text-xl text-blue-400">
 			The Woodlands Tech Club is a school club of the Woodlands Public School in Mississauga, ON.
 		</p>
 
-		<p class="font-normal text-sm">
+		<p class="font-normal text-md">
 			We are a group of students who are passionate about technological education. We strive to
 			promote tech literacy and make it accessible to everyone.
 		</p>
