@@ -8,7 +8,7 @@
 </div>
 <hr />
 
-<ul class="mt-4 flex w-[100%] gap-4 justify-between flex-col md:flex-row mb-8">
+<ul class="mt-4 flex w-[100%] gap-4 justify-between flex-col md:flex-row mb-14">
 	<li class="w-[100%] lg:max-w-[30%]">
 		<Article
 			title="Intro to the woodlands tech club"
