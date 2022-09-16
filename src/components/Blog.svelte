@@ -17,6 +17,20 @@
 			article_link="/intro"
 		/>
 	</li>
-	<!-- <li class="w-[100%]"><Article title="Title" subtitle="Subtitle" gradient="from-violet-200 to-fuchsia-400"></Article></li>
-    <li class="w-[100%]"><Article title="Title" subtitle="Subtitle" gradient="from-sky-200 to-indigo-400"></Article></li> -->
+	<li class="w-[100%] lg:max-w-[30%]">
+		<Article
+			title="Coming Soon..."
+			subtitle="This article has not been written yet"
+			gradient="from-gray-200 to-gray-400"
+			article_link="#"
+		/>
+	</li>
+	<li class="w-[100%] lg:max-w-[30%]">
+		<Article
+			title="Coming Soon..."
+			subtitle="This article has not been written yet"
+			gradient="from-gray-200 to-gray-400"
+			article_link="#"
+		/>
+	</li>
 </ul>
