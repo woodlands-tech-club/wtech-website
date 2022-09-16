@@ -1,8 +1,11 @@
 <div class="flex justify-between my-3 items-center md:flex-row lg:flex-row flex-col">
-	<div class="flex gap-3 items-center">
-		<img src="gear_logo_colored.png" alt="logo" class="h-14 w-14" />
-		<div class="text-2xl font-bold">Woodlands Tech Club</div>
-	</div>
+	<a href="/">
+		<div class="flex gap-3 items-center">
+			<img src="gear_logo_colored.png" alt="logo" class="h-14 w-14" />
+			<div class="text-2xl font-bold">Woodlands Tech Club</div>
+		</div>
+	</a>
+
 	<h5>📍 Mississauga, ON</h5>
 	<!-- <ul class="flex gap-5">
 		<li>
