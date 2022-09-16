@@ -14,7 +14,7 @@
 			title="Intro to the woodlands tech club"
 			subtitle="An introductory blog to wtech's internal organization"
 			gradient="from-cyan-200 to-blue-400"
-			article_link="/intro"
+			article_link="#"
 		/>
 	</li>
 	<li class="w-[100%] lg:max-w-[30%]">
