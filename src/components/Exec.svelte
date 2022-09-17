@@ -4,7 +4,7 @@
 	export let exec_img;
 </script>
 
-<div class="text-center m-auto mt-4">
+<div class="flex flex-col m-auto mt-4 items-center">
 	<img src={exec_img} alt={exec_name} class="w-32 h-32 shadow-md mb-5 rounded-md" />
 	<h3 class="text-lg font-medium">{exec_name}</h3>
 	<h4 class="text-blue-400">— {exec_role}</h4>

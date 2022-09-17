@@ -2,7 +2,7 @@
 	import Article from '../../components/Article.svelte';
 </script>
 
-<div class="flex items-center gap-3 mt-12">
+<div class="flex items-center gap-3 mt-12 mb-1">
 	<h2 class="text-3xl font-semibold">✒️ Blog</h2>
 </div>
 <hr />

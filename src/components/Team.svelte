@@ -2,7 +2,7 @@
 	import Exec from './Exec.svelte';
 </script>
 
-<h2 class="text-3xl font-semibold">👋 Meet the team</h2>
+<h2 class="text-3xl font-semibold mb-1">👋 Meet the team</h2>
 <hr />
 
 <ul class="mt-4 flex w-[100%] gap-16 flex-col sm:flex-row mb-8 flex-wrap">
