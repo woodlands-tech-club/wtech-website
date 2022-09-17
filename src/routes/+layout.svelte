@@ -4,7 +4,7 @@
 	import Footer from '../components/Footer.svelte';
 </script>
 
-<main class="lg:mx-[20%] mx-[10%]">
+<main class="lg:mx-[15%] mx-[10%]">
 	<Navbar />
 
 	<slot />
