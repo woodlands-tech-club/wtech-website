@@ -1,6 +1,7 @@
 <script>
 	export let discord_link;
 	export let instagram_link;
+	export let github_link;
 </script>
 
 <div class="flex flex-col md:flex-row items-center gap-5 my-10">
@@ -19,7 +20,10 @@
 				<img src="/discord.svg" alt="discord" class="h-9 blue-500" />
 			</a>
 			<a href={instagram_link}>
-				<img src="/instagram.svg" alt="discord" class="h-9 blue-500" />
+				<img src="/instagram.svg" alt="instagram" class="h-9 blue-500" />
+			</a>
+			<a href={github_link}>
+				<img src="/github.svg" alt="github" class="h-9 blue-500" />
 			</a>
 		</div>
 	</div>

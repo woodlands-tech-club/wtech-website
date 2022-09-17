@@ -6,9 +6,10 @@
 
 	let discord_link = 'https://discord.gg/3s4DYcbJ37';
 	let instagram_link = 'https://www.instagram.com/woodlands.tech/';
+	let github_link = 'https://github.com/woodlands-tech-club';
 </script>
 
-<Hero {discord_link} {instagram_link} />
+<Hero {discord_link} {instagram_link} {github_link} />
 <Blog />
 <WhatWeDo />
 <Team />

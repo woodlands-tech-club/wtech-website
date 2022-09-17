@@ -6,7 +6,7 @@
 		</div>
 	</a>
 </div>
-<div class="mb-3">
+<div class="mb-4">
 	Made by <a href="https://github.com/ch-iv" class="text-blue-500">Ivan Chepelev</a> using
 	<a href="https://kit.svelte.dev/" class="text-blue-500">SvelteKit</a>
 	and <a href="https://tailwindcss.com/" class="text-blue-500">Tailwind CSS</a>. Website source code
