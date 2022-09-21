@@ -10,6 +10,6 @@
 </script>
 
 <Hero {discord_link} {instagram_link} {github_link} />
-<Blog />
 <WhatWeDo />
+<Blog />
 <Team />
