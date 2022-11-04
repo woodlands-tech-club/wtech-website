@@ -1,4 +1,4 @@
-<nav class="absolute w-[100%] shadow-lg bg-gray-800 z-10">
+<nav class="absolute w-[100%] shadow-lg blue-gradient z-10">
 	<div
 		class="flex justify-between  items-center md:flex-row lg:flex-row flex-col max-w-screen-xl m-auto"
 	>
@@ -10,15 +10,15 @@
 		</a>
 
 		<!-- <h5>📍 Mississauga, ON</h5> -->
-		<ul class="flex gap-16 text-white font-[Source_Code_Pro] items-center ">
-			<li>
-				<a href="/" class="h-28 px-4 flex items-center nav-button">Home</a>
+		<ul class="flex text-white font-[Source_Code_Pro] items-center uppercase font-semibold">
+			<li class="hover:bg-white hover:text-blue-500">
+				<a href="/" class="h-20 px-6 flex items-center nav-button">Home</a>
 			</li>
-			<li>
-				<a href="/about" class="h-28 px-4 flex items-center nav-button">About</a>
+			<li class="hover:bg-white hover:text-blue-500">
+				<a href="/about" class="h-20 px-6 flex items-center nav-button">About</a>
 			</li>
-			<li>
-				<a href="/contact" class="h-28 px-4 flex items-center nav-button">Contact</a>
+			<li class="hover:bg-white hover:text-blue-500">
+				<a href="/contact" class="h-20 px-6 flex items-center nav-button">Contact</a>
 			</li>
 		</ul>
 	</div>
@@ -51,12 +51,16 @@
 		}
 	}
 
-	.nav-button {
+	/* .nav-button {
 		box-shadow: rgba(219, 219, 219, 0.495) 0px -30px 20px -28px inset;
 		transition: ease 0.3s;
 	}
 
 	.nav-button:hover {
 		box-shadow: rgba(219, 219, 219, 0.495) 0px -40px 20px -28px inset;
+	} */
+
+	.blue-gradient{
+		background: linear-gradient(292deg, rgb(60, 172, 241) 0%, rgb(41, 114, 231) 100%)
 	}
 </style>

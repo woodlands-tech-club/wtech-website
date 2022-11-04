@@ -1,6 +1,9 @@
-<section class="bg-gray-800 text-white">
-	<div class="max-w-screen-xl m-auto h-[100vh] flex flex-col justify-center">
-		<h2 class="text-4xl font-semibold mb-1">🚀 This is what we do:</h2>
+
+<section class="bg-white text-white relative">
+
+	<div class="max-w-screen-xl m-auto h-[60vh] flex flex-col justify-center">
+
+		<h2 class="text-4xl font-semibold mb-1">This is what we do:</h2>
 
 		<ul class=" list-disc mt-4 ml-4 mb-12 lg:max-w-[60%]">
 			<li class="mt-4">
@@ -25,5 +28,17 @@
 				</p>
 			</li>
 		</ul>
+
 	</div>
 </section>
+
+<style>
+	.custom-shape-divider-top-1664675485 {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		overflow: hidden;
+		line-height: 0;
+}
+</style>

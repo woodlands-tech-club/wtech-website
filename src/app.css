@@ -6,4 +6,117 @@
 
 html {
 	font-family: 'Inter', sans-serif;
+	
+	background: radial-gradient(
+		rgba(255, 255, 255, 0.1) 8%,
+		transparent 8%
+	), rgb(11, 9, 21);
+	background-position: 0% 0%;
+	background-size: 7vmin 7vmin;
+	height: 100%;
+	width: 100%;
+}
+
+
+@font-face {
+    font-family: 'DTNouveau';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/DTNouveau-Regular.ttf'); /* IE9 Compat Modes */
+    src: local('') url('/fonts/DTNouveau-Regular.ttf') format('truetype'),
+}
+
+
+
+@font-face {
+    font-family: 'AUTHENTICSans60';
+    src: url('/fonts/AUTHENTICSans-60.otf');
+}
+@font-face {
+    font-family: 'AUTHENTICSans90';
+    src: url('/fonts/AUTHENTICSans-90.otf');
+}
+@font-face {
+    font-family: 'AUTHENTICSans130';
+    src: url('/fonts/AUTHENTICSans-130.otf');
+}
+@font-face {
+    font-family: 'AUTHENTICSans150';
+    src: url('/fonts/AUTHENTICSans-150.otf');
+}
+@font-face {
+    font-family: 'AUTHENTICSans60C';
+    src: url('/fonts/AUTHENTICSans-Condensed-60.otf');
+}
+@font-face {
+    font-family: 'AUTHENTICSans90C';
+    src: url('/fonts/AUTHENTICSans-Condensed-90.otf');
+}
+@font-face {
+    font-family: 'AUTHENTICSans130C';
+    src: url('/fonts/AUTHENTICSans-Condensed-130.otf');
+}
+@font-face {
+    font-family: 'AUTHENTICSans150C';
+    src: url('/fonts/AUTHENTICSans-Condensed-150.otf');
+}
+
+@font-face {
+    font-family: 'Paysage60';
+    src: url('/fonts/Paysage-Regular.otf');
+}
+@font-face {
+    font-family: 'Paysage90';
+    src: url('/fonts/Paysage-Medium.otf');
+}
+@font-face {
+    font-family: 'Paysage130';
+    src: url('/fonts/Paysage-Bold.otf');
+}
+@font-face {
+    font-family: 'Paysage150';
+    src: url('/fonts/Paysage-Black.otf');
+}
+
+/* .logo-font{
+	font-family: DTNouveau;
+} */
+
+.as60{
+	font-family: 'AUTHENTICSans60';
+}
+.as90{
+	font-family: 'AUTHENTICSans90';
+}
+.as130{
+	font-family: 'AUTHENTICSans130';
+}
+.as150{
+	font-family: 'AUTHENTICSans150';
+}
+
+.asc60{
+	font-family: 'AUTHENTICSans60C';
+}
+.asc90{
+	font-family: 'AUTHENTICSans90C';
+}
+.asc130{
+	font-family: 'AUTHENTICSans130C';
+}
+.asc150{
+	font-family: 'AUTHENTICSans150C';
+}
+
+.ps60{
+	font-family: Paysage60;
+}
+.ps90{
+	font-family: Paysage90;
+}
+.ps130{
+	font-family: Paysage130;
+}
+.ps150{
+	font-family: Paysage150;
 }
